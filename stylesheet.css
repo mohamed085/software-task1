@@ -2,6 +2,11 @@
     padding: 0;
     margin: 0;
 }
+.container{
+    width: 1170px;
+    margin: auto;
+}
+    
 .navbar{
     background: #252f31;
     color: white;
@@ -32,9 +37,6 @@
     height: 450px;
 }
 
-.footer{
-    margin: 0 100px ;
-}
 .footer .features{
     font-family: "Bell MT";
     font-weight: bold;
