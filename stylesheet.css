@@ -31,6 +31,10 @@
     -o-background-size: cover;
     height: 450px;
 }
+
+.footer{
+    margin: 0 100px ;
+}
 .footer .features{
     font-family: "Bell MT";
     font-weight: bold;
